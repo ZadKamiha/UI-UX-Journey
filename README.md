@@ -16,9 +16,13 @@ UI vs. UX Design: What’s the Difference? | <a href="https://www.coursera.org/a
     - **Video** </br>
 Practical Example | <a href="https://www.youtube.com/watch?v=TgqeRTwZvIo"> YouTube </a>
 #### *STUDY UI & UX IN PARALLEL* 
-### 🔘 UX STUDY 
+### 🔘 UX STUDY PRINCIPLES
    - **Heuristic Evaluation UX** | <a href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/"> NNG Article </a> | <a href="https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I"> NNG Videos </a>
    - **Google UX Design** Professional Course | <a href="https://www.coursera.org/professional-certificates/google-ux-design"> Coursera </a>
+### 🔘 UI DESIGN PRINCIPLES
+   - **10 Fundamental UI Design Principles You Need to Know** | <a href="https://dribbble.com/resources/ui-design-principles"> Dribble </a>
+   - **The 6 key principles of UI design** | <a href="[https://dribbble.com/resources/ui-design-principles](https://maze.co/collections/ux-ui-design/ui-design-principles/)"> Maze </a>
+   - **5 essential UI design principles—and how to use them** | <a href="https://www.figma.com/resource-library/ui-design-principles/"> Figma </a>
 ### 🔘 UI Learning Tools
    - **Figma**
      - Tools of Figma From A to Z | <a href="https://www.youtube.com/watch?v=7K7pEPFepWA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=1&t=0s"> Youtube Playlist </a>
