@@ -30,3 +30,29 @@ Practical Example | <a href="https://www.youtube.com/watch?v=TgqeRTwZvIo"> YouTu
    - **Adobe XD**
      - Tools of Adobe XD | <a href="https://www.youtube.com/playlist?list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH"> Youtube Playlist </a>
      - Practice Adobe XD Projects | <a href="https://www.youtube.com/playlist?list=PLhQPj7rbxEGHD7bqd1XRH28ixZfM4TXmW"> Youtube Playlist </a>
+### 🔘 UIX AIDS 
+   - **💊 Optical Feed**
+     - <a href="https://www.behance.net/"> Behance </a>
+     - <a href="https://dribbble.com/"> Dribble </a>
+     - <a href="https://www.awwwards.com/"> Awwwards </a>
+     - <a href="https://muz.li/"> Mulzi </a>
+   - **💊 Colors Palette**
+     - <a href="https://colorhunt.co/"> Color Hunt </a>
+     - <a href="https://flatuicolors.com/"> Flat UI Colors </a>
+     - <a href=""> Color Palet </a>
+     - <a href="https://colormagic.app/"> Color Magic AI </a>
+   - **💊 Photos**
+     - <a href="https://unsplash.com/"> Unsplash </a>
+     - <a href="https://www.freepik.com/"> Freepik </a>
+     - <a href="https://pixabay.com/"> Pixaby </a>
+     - <a href="https://stocksnap.io/"> Stock Snap </a>
+   - **💊 Icons**
+     - <a href="https://www.flaticon.com/"> Flat Icon </a>
+     - <a href="https://www.iconfinder.com/"> Icon Finder </a>
+     - <a href="https://icons8.com/"> Icon 8 </a>
+     - <a href="https://iconmonstr.com/"> Icon Monster </a>
+   - **💊 Illustrations**
+     - <a href="https://storyset.com/"> Story Set </a>
+     - <a href="https://undraw.co/"> Undraw </a>
+     - <a href="https://www.vecteezy.com/"> Vecteezy </a>
+     - <a href="https://drawkit.com/"> DrawKit </a>
